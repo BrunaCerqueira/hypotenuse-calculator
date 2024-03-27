@@ -4,8 +4,7 @@ class MainClass
 {
     public static void Main(string[] args)
     {
-        int cateto1, cateto2;
-        double hipotenusa;
+        double hipotenusa,cateto1 ,cateto2;
         Console.Write("Calculadora de hipotenusa!");
         Console.WriteLine();
         Console.Write("digite um valor para o primeiro cateto: ");
